@@ -13,14 +13,14 @@
     {
       "kind": "main",
       "tag": "com-luis-puccio-sap-sac-excel",
-      "url": "",
+      "url": "https://franklinalonso.github.io/WIDGET-SAC/Custom_Widget/excel.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-luis-puccio-sap-sac-excel-aps",
-      "url": "",
+      "url": "https://franklinalonso.github.io/WIDGET-SAC/Custom_Widget/aps_excel.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
